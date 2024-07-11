@@ -1,7 +1,10 @@
-## Hi there 👋
+<h1>Hi there!</h1>
+<h3>I'm Sidney and welcome to my profile!</h3>
 
-<!--
-**euSidneyy/euSidneyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning:
+
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
 Here are some ideas to get you started:
 
